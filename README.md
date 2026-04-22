@@ -40,6 +40,7 @@ A collection of neural network experiments focused on supervised learning tasks,
 
 | Project | Description | Language |
 |--------|-------------|------|
+| **Cross Sectional Return Prediction** | Neural network predicting demeaned cross-sectional returns based on financial indicators derived from dataset|Python|
 | **Price Prediction** | Neural network regression model that predicts the next day’s closing price using historical OHLC market data |Python|
 | **MNIST** | PyTorch-based neural network trained and evaluated on the MNIST handwritten digit dataset |Python|
 | **Evolutionary neural network** | Unity-based simulation where agents controlled by evolving neural networks produce emergent behaviors through mutation and natural selection |Unity, C#|
